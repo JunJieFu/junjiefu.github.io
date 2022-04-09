@@ -63,7 +63,8 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="publication">论文发表</h2> 
 
 期刊论文
-
+* <small>D. Liu, M. Tang, J. Fu Gaussian process based robust adaptive trajectory tracking for unicycles with stability guarantees. Systems and Control Letters, 2022.
+* <small>胡一帆，刘克新，付俊杰，温广辉，基于安全强化学习的不确定二阶系统模型参考跟踪控制，控制工程，2022
 * <small>J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.</small>
 * <small>唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.</small>
 * <small>J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.</small>
@@ -132,7 +133,9 @@ h1, h2, h3, h4, h5, h6 {
 * <small>27.Zhongjing Luo, Jiahui Yu, Junjie Fu and Zhaohui Liu, Bayesian network based Ant Colony Optimization algorithm for USV path planning in a dynamic environment, ICCSS, 2020.
 * <small>28.Guanghui Wen, Yuezu Lv, Jialing Zhou and Junjie Fu, Sufficient and Necessary Condition for Resilient Consensus under Time-varying Topologies. ICCSS, 2020.
 * <small>29.Hu Y, Fu J and Lv Y. "A Class of Optimal Control Problem for Stochastic Discrete-Time Systems with Average Reward Reinforcement Learning." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 829-834. IEEE, 2021.
-* <small>30. Tang M and Fu J. "Nonparametric Adaptive Trajectory Tracking Control of Uncertain Euler-Lagrange Systems." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 852-857. IEEE, 2021.
+* <small>30.Tang M and Fu J. "Nonparametric Adaptive Trajectory Tracking Control of Uncertain Euler-Lagrange Systems." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 852-857. IEEE, 2021.
+* <small>31.Lei Y, Wan Y, Fu J, NSGA-II based Electric Vehicle Charging Scheduling for DailyCommuting, CCDC, 2022. 
+* <small>32.Wang Y, Tang M, Fu J, 集中式分布式递推最小二乘自适应覆盖控制，CCSCC, 2021
 
 <h2 id="project">科研项目</h2> 
 
