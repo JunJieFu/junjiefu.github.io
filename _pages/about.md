@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small>01/2022:</small> <small style="color:red">Our paper "Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation" is accepted by ICASSP 2022 ~</small>    
-<h2 id="biography"> 个人简介</h2>  
+<h2 id="biography"> 基本信息</h2>  
 
 <small> 付俊杰，东南大学数学学院副研究员，博士生导师。2017年毕业于北京大学工学院力学系统与控制系，获博士学位。2011年毕业于北京大学工学院理论与应用力学系，获学士学位。研究方向包括非光滑分析、滑模控制、多智能体分布式协同控制等。在量化通信协同控制，有限时间协同控制方面发表相关论文十余篇。主持国家自然科学基金青年基金一项，江苏省自然科学基金青年基金一项。2018年10月入选江苏省双创博士人才计划，2018年11月入选东南大学至善青年学者人才项目。</small>
 
@@ -52,13 +52,9 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2 id="publication">研究成果</h2> 
-* J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.
-
-唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.
-
-J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.
-
-
+* <small>J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.</small>
+* <small>唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.</small>
+* <small>J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.</small>
 
 G. Wen, X. Yu, J. Fu, H. Wang and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2020.3046949, 2021.
 
