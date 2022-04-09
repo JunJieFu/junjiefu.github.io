@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 <small>2017-至今 东南大学数学学院</small> 
 
 
-<h2 id="publication">研究成果</h2> 
+<h2 id="publication">论文发表</h2> 
 
 期刊论文
 
@@ -144,19 +144,25 @@ h1, h2, h3, h4, h5, h6 {
 * <small>国防科技创新特区项目，XXX的数学理论分析与高效处理技术，2019/09-2021/09，200万，已结题，参与
 	
 <h2 id="student">在读学生</h2>  
+	
 博士
-* <small>胡一帆（联合指导，2021）
+	
+* <small>胡一帆（联合指导，2021）230218183@seu.edu.cn
 * <small>战勇良（2022）
+	
 硕士
-* <small>唐美祺（2020）
-* <small>刘丹（2021）
-* <small>汪烨（2021）
-* <small>郝福鑫（联合指导，2021）
-* <small>艾乐巍（2021）	
+	
+* <small>唐美祺（2020）220201679@seu.edu.cn
+* <small>刘丹（2021）220211772@seu.edu.cn
+* <small>汪烨（2021）wangyemath@163.com
+* <small>郝福鑫（联合指导，2021）18936161955@163.com
+* <small>艾乐巍（2021）170342101@cauc.edu.cn	
 * <small>胡建（2022）
 		
 <h2 id="service">奖项及社会兼职</h2>  
+	
  相关荣誉
+	
 * <small>2020 IEEE ICCSS Zadeh最佳论文奖（排4）
 * <small>2018东南大学至善青年学者
 * <small>2018江苏省双创博士
@@ -164,6 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>2016亚洲控制期刊杰出审稿人
  
 社会兼职
+	
 * <small>IEEE 会员
 * <small>IEEE 工业应用电子学会会员
 * <small>中国指挥控制学会复杂网络专委会委员
