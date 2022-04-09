@@ -55,71 +55,38 @@ h1, h2, h3, h4, h5, h6 {
 * <small>J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.</small>
 * <small>唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.</small>
 * <small>J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.</small>
-
-G. Wen, X. Yu, J. Fu, H. Wang and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2020.3046949, 2021.
-
-T. Liu, M. Liu, G. Wen, Y. Lv and J. Fu, Consensus of Linear MIMO Multiagent Systems: Appointed-Time Reduced-Order Observer-Based Protocols,  IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3062424, 2021.
-
-J. Fu, G. Wen, X. Yu, Z. Wu, Distributed formation navigation of constrained second-order multiagent systems with collision avoidance and connectivity maintenance. IEEE Transactions on Cybernetics. doi: 10.1109/TCYB.2020.3000264, 2020.
-
-J. Fu, Y. Lv, G. Wen, X. Yu, Huang  T,  Velocity and input constrained coordination of second-order multi-agent systems with relative output information. IEEE Transactions on Network Science and Engineering. vol. 7, no. 3, pp. 1925-1938, 2020.
-
-J. Fu, Y. Wan, T. Huang. Event-triggered finite-time practical consensus of multiagent systems with general directed communication graphs. International Journal of Robust and Nonlinear Control. vol. 30, pp. 7255-7277, 2020.
-
-Y. Lv, J. Fu, G. Wen, T. Huang and X. Yu, Fully Distributed Anti-Windup Consensus Protocols for Linear MASs With Input Saturation: The Case With Directed Topology, IEEE Transactions on Cybernetics. Doi: 10.1109/TCYB.2020.2977554, 2020.
-
-Y. Lv, J. Fu, G. Wen, X. Yu, Distributed adaptive observer-based control for output consensus of heterogeneous MASs with input saturation constrain.  IEEE Transactions on Circuits and Systems I: Regular Papers. vol. 67， no. 3, 995-1007, 2020.
-
+* <small>G. Wen, X. Yu, J. Fu, H. Wang and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2020.3046949, 2021.
+* <small>T. Liu, M. Liu, G. Wen, Y. Lv and J. Fu, Consensus of Linear MIMO Multiagent Systems: Appointed-Time Reduced-Order Observer-Based Protocols,  IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3062424, 2021.
+* <small>J. Fu, G. Wen, X. Yu, Z. Wu, Distributed formation navigation of constrained second-order multiagent systems with collision avoidance and connectivity maintenance. IEEE Transactions on Cybernetics. doi: 10.1109/TCYB.2020.3000264, 2020.
+* <small>J. Fu, Y. Lv, G. Wen, X. Yu, Huang  T,  Velocity and input constrained coordination of second-order multi-agent systems with relative output information. IEEE Transactions on Network Science and Engineering. vol. 7, no. 3, pp. 1925-1938, 2020.
+* <small>J. Fu, Y. Wan, T. Huang. Event-triggered finite-time practical consensus of multiagent systems with general directed communication graphs. International Journal of Robust and Nonlinear Control. vol. 30, pp. 7255-7277, 2020.
+* <small>Y. Lv, J. Fu, G. Wen, T. Huang and X. Yu, Fully Distributed Anti-Windup Consensus Protocols for Linear MASs With Input Saturation: The Case With Directed Topology, IEEE Transactions on Cybernetics. Doi: 10.1109/TCYB.2020.2977554, 2020.
+* <small>Y. Lv, J. Fu, G. Wen, X. Yu, Distributed adaptive observer-based control for output consensus of heterogeneous MASs with input saturation constrain.  IEEE Transactions on Circuits and Systems I: Regular Papers. vol. 67， no. 3, 995-1007, 2020.
 Y. Lv, J. Fu, G. Wen, X. Yu, T. Huang. On Consensus of Multi-agent Systems with Input Saturation: Fully Distributed Adaptive Anti-windup Protocol Design Approach. IEEE Transactions on Control of Network Systems. vol.7 no.3  1127-1139, 2020.
-
 F. Mei, H. Wang, Y. Yao, J. Fu, X. Yuan and W. Yu, "Robust second-order finite-time formation control of heterogeneous multi-agent systems on directed communication graphs," IET Control Theory & Applications, vol. 14, no. 6, pp. 816-823, 2020.
-
 W. Zhang, J. Qin, F. Mei, J. Fu, B. Dai and W. Yu. Short-term power load forecasting using integrated methods based on long short-term memory[J]. Science China(Technological Sciences),  063(004):P.614-624, 2020.
-
 J. Fu, Y. Wan, G. Wen and T. Huang. Distributed Robust Global Containment Control of Second-Order Multi-Agent Systems With Input Saturation. IEEE Transactions on Control of Networked Systems. vol.6, no. 4, pp. 1426-1437, 2019.
-
 J. Fu , G. Wen, W. Yu, T. Huang, X. Yu,  Second-order consensus with both input and velocity constraints. IEEE Transactions on Industrial Electronics.  vol. 66, no. 10, pp. 7946-7955, Oct. 2019.
-
 J. Fu, G. Wen, T. Huang and Z. Duan. Consensus of multi-agent systems with heterogeneous asymmetrical input saturation levels. IEEE Transactions on Circuits and Systems II: Express Briefs. vol. 66, no. 6, pp. 1053-1057, June. 2019. 
-
 J. Fu, Y. Lv, T. Huang. Distributed anti-windup approach for consensus tracking for second-order multi-agent systems with input saturation [J]. Systems and Control Letters, vol. 130, pp. 1-6, 2019.
-
 J. Fu, Q. Wang and J. Wang. Robust finite-time consensus tracking for second-order multi-agent systems with input saturation under general directed communication graphs [J]. International Journal of Control. vol. 92, no. 8, 1785-1795, 2019.
-
 H. Hong, W. Yu, J.Fu, X.Yu X. A novel class of distributed protocols for fixed-time consensus of second-order nonlinear and disturbed multi-agent systems. IEEE Transactions on Network Science and Engineering. vol. 6, no. 4, 760-772, October 2019
-
 H. Hong, W. Yu, J. Fu, X. Yu. Finite-time connectivity-preserving consensus for second-order nonlinear multi-agent systems [J]. IEEE Transactions on Control of Network Systems. vol. 6, no. 1, pp. 236-248, March 2019.
-
 T. Fang, W. Yu, J. Fu, W.Gu, J. Gu. Distributed  optimization of multi-agent systems subject to inequality constraints. IEEE Transactions on Cybernetics . doi:10.1109/TCYB.2019.2927725
-
 Y. Yao, F. Tian, F. Mei, J. Fu, B. Dai, W. Yu. "Dynamical economic dispatch using distributed barrier function-based optimization algorithm." Science China(Technological Sciences) 12, 2019.
-
 J. Fu, G. Wen, W. Yu, T. Huang and J. Cao, Exponential consensus of multi-agent systems with Lipschitz nonlinearities using sampled-data information, IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 12, pp. 4363-4375, 2018.
-
 Q. Wang, J. Fu and J. Wang. Cooperative tracking for high-order nonlinear multi-agent systems via adaptive control [J]. IET control theory and applications, 12(11): 1592-1600, 2018.
-
 J. Fu, G. Wen, W. Yu and Z. Ding. Finite-time consensus for second-order multi-agent systems with input saturation [J]. IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 65, no. 11, pp. 1758-1762, 2017.
-
 J. Fu, J. Wang and Z. Li. Leader-following control of perturbed second-order integrator systems with binary relative information [J]. International Journal of Systems Science, 48(3): 485-493, 2017.
-
 J. Fuang J. Wang. Finite-time consensus for multi-agent systems with globally bounded convergence time under directed communication graphs [J]. International Journal of Control, 90(9): 1807-1817, 2017.
-
 Q. Wang, J. Fu, and J. Wang Fully distributed containment control of high-order multi-agent systems with nonlinear dynamics [J]. Systems & Control Letters, vol. 99, pp. 33-39, 2017.
-
 J. Fu, and J. Wang. Observer-based finite-time coordinated tracking for general linear multi-agent systems. Automatica, vol. 66, pp. 231-237, 2016.
-
 J. Fu and J. Wang. Fixed-time coordinated tracking for second-order multi-agent systems with bounded input uncertainties [J]. Systems and Control Letters, vol. 93, pp. 1-12, 2016.
-
 J.Fu and J. Wang. Robust finite-time containment control for high-order multi-agent systems with matched uncertainties under directed communication graphs [J]. International Journal of Control, 89(6): 1137-1151, 2016.
-
 J. Fuang J. Wang. Robust finite-time containment control of general linear multi-agent systems under directed communication graphs. Journal of the Franklin Institute, 353(12): 2670-2689, 2016.
-
 J. Fu and J. Wang. Adaptive motion coordination of passive systems under quantization effect [J]. International Journal of Robust and Nonlinear Control, 25(11): 1638-1653, 2015.
-
 J. Fuang J. Wang. Output consensus of heterogeneous linear systems with quantized information [J]. Journal of the Franklin Institute, 351(3): 1400-1418, 2014.
-
 J. Fuang J. Wang. Adaptive consensus tracking of high-order nonlinear multi-agent systems with directed communication graphs [J]. International Journal of Control, Automation and Systems, 12(5): 919-929, 2014.
-
 J. Fu and J. Wang. Adaptive coordinated tracking of multi-agent systems with quantized information [J]. Systems and Control Letters, vol. 74, pp. 115-125, 2014.
 
 
