@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>艾乐巍（2021）170342101@cauc.edu.cn	
 * <small>胡建（2022）
 		
-<h2 id="service">奖项及社会兼职</h2>  
+<h2 id="service">荣誉及社会兼职</h2>  
 	
  相关荣誉
 	
