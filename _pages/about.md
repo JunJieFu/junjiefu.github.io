@@ -38,57 +38,160 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small>01/2022:</small> <small style="color:red">Our paper "Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation" is accepted by ICASSP 2022 ~</small>    
-
 <h2 id="biography"> 个人简介</h2>  
 
 <small> 付俊杰，东南大学数学学院副研究员，博士生导师。2017年毕业于北京大学工学院力学系统与控制系，获博士学位。2011年毕业于北京大学工学院理论与应用力学系，获学士学位。研究方向包括非光滑分析、滑模控制、多智能体分布式协同控制等。在量化通信协同控制，有限时间协同控制方面发表相关论文十余篇。主持国家自然科学基金青年基金一项，江苏省自然科学基金青年基金一项。2018年10月入选江苏省双创博士人才计划，2018年11月入选东南大学至善青年学者人才项目。</small>
 
 <h2 id="education"> 教育经历</h2>  
-* <small>2011.9-2017.7 北京大学工学院动力学系统与控制系;</small> 
-* <small>2016.7-2017.2 墨尔本大学电子电器工程系;</small> 
-* <small>2007.9-2011.7 北京大学工学院理论与应用力学专业.</small> 
+<small>2011.9-2017.7 北京大学工学院动力学系统与控制系;</small> <br>
+<small>2016.7-2017.2 墨尔本大学电子电器工程系;</small> <br>
+<small>2007.9-2011.7 北京大学工学院理论与应用力学专业.</small> 
 
-<h2 id="experience">Experience</h2> 
-* <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
-* <small>Data Scientist Intern, Amazon Alexa AI (06/2019 - 09/2019)</small>  
-* <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
+<h2 id="experience">工作经历</h2> 
+<small>2017-至今 东南大学数学学院</small> 
 
-<h2 id="publication">Publication</h2> 
-* <small>Xiyao Ma\*,**Zheng Gao\***, Qian Hu, Mohamed AbdelHady. Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation. *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022. [[PDF]](https://www.amazon.science/publications/contrastive-knowledge-graph-attention-network-for-request-based-recipe-recommendation)[[Video]](https://www.youtube.com/watch?v=WAkBY2-8zxM)[[Slides]](/files/icassp2022.pptx)[[Poster]](/files/icassp2022-poster.pdf) </small>
-* <small>**Zheng Gao**, Chun Guo, Shutian Ma, Xiaozhong Liu. Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution. *International Conference on Information*, 2022. [[PDF]](https://arxiv.org/abs/2105.00627)[[Video]](https://www.youtube.com/watch?v=zSR8NnDc_uw) [[Slides]](/files/iconference2022.pptx)</small>
-* <small>**Zheng Gao**, Mohamed AbdelHady, Radhika Arava, Xibin Gao, Qian Hu, Wei Xiao, and Thahir Mohamed. X-SHOT: Learning to Rank Voice Applications via Cross-Locale Shard-based Co-Training. *IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)*, 2021. [[PDF]](https://www.amazon.science/publications/x-shot-learning-to-rank-voice-applications-via-cross-locale-shard-based-co-training) [[Video]](https://www.youtube.com/watch?v=kz49WuIEysg&t=7s) [[Slides]](/files/asru-2021.pptx)</small>
-* <small>**Zheng Gao**, Mohamed AbdelHady, Radhika Arava, Xibin Gao, Qian Hu, Wei Xiao, and Thahir Mohamed. X-SHOT: Learning to Rank Voice Applications via Cross-Locale Shard-based Co-Training. *Workshop on Machine Learning in Speech and Language Processing (MLSLP)*, 2021. [[PDF]](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/MLSLP2021_paper_16.pdf)</small>
-* <small>**Zheng Gao**, Radhika Arava, Qian Hu, Xibin Gao, Thahir Mohamed, Wei Xiao, Mohamed AbdelHady. Paraphrase Label Alignment for Voice Application Retrieval in Spoken Language Understanding. *Interspeech*, 2021. [[PDF]](https://assets.amazon.science/2d/b9/5eb38019430caa942093a051ba85/paraphrase-label-alignment-for-voice-application-retrieval-in-spoken-language-understanding.pdf) [[Video]](https://www.youtube.com/watch?v=Pki2gELMkUc) [[Slides]](/files/interspeech-2021.pptx)</small>
-* <small>Xibin Gao, Radhika Arava, Qian Hu, Thahir Mohamed, Wei Xiao, **Zheng Gao** and Mohamed AbdelHady. Graphire: Novel Intent Discovery with Pretraining on Prior Knowledge using Contrastive Learning. *KDD Workshop on Pretraining: Algorithms, Architectures, and Applications*, 2021. [[PDF]](https://www.amazon.science/publications/graphire-novel-intent-discovery-with-pretraining-on-prior-knowledge-using-contrastive-learning)</small>
-* <small>Wei Xiao, Qian Hu, Thahir Mohamed, **Zheng Gao**, Xibin Gao, Radhika Arava, Mohamed AbdelHady. Two-stage Voice Application Recommender System for Unhandled Utterances in Intelligent Personal Assistant. *KDD 2nd International Workshop: Industrial Recommendation Systems*, 2021. [[PDF]](https://www.amazon.science/publications/two-stage-voice-application-recommender-system-for-unhandled-utterance-in-intelligent-personal-assistant)</small>
-* <small>Qian Hu, Thahir Mohamed, Wei Xiao, **Zheng Gao**, Xibin Gao, Radhika Arava, Xiyao Ma, Mohamed AbdelHady. Collaborative Data Relabeling for Robust and Diverse Voice Apps Recommendation in Intelligent Personal Assistants. *EMNLP Third Workshop on NLP for Conversational AI*, 2021. [[PDF]](https://aclanthology.org/2021.nlp4convai-1.11/)</small>
-* <small>**Zheng Gao**, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu. Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning. *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2020. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401055) [[Video]](https://www.youtube.com/watch?v=lq9zqshEqaA) [[Slides]](/files/sigir2020.pptx)</small>
-* <small>**Zheng Gao**, Lujun Zhao, Heng Huang, Hongsong Li, Changlong Sun, Luo Si, Xiaozhong Liu. Behavior based Dynamic Summarization on Product Aspects via Reinforcement Neighbour Selection. *European Conference on Artificial Intelligence (ECAI)*, 2020. [[PDF]](http://ecai2020.eu/papers/383_paper.pdf) [[Video]](https://www.youtube.com/watch?v=Y4sp9kK5NGk) [[Slides]](/files/ecai2020.pptx)</small>
-* <small>Zhuoren Jiang, **Zheng Gao**, Jinjiong Lan, Hongxia Yang, Yao Lu, Xiaozhong Liu. Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. *The Web Conference (WWW)*, 2020. [[PDF]](https://dl.acm.org/doi/10.1145/3366423.3380230)</small>
-* <small>**Zheng Gao**, Chun Guo, Xiaozhong Liu. Efficient Personalized Community Detection via Genetic Evolution. *The Genetic and Evolutionary Computation Conference (GECCO)*, 2019. [[PDF]](https://dl.acm.org/citation.cfm?id=3321711)</small>
-* <small>**Zheng Gao**, Gang Fu, Chunping Ouyang, Satoshi Tsutsui, Xiaozhong Liu, Jeremy Yang, Christopher Gessner, Brian Foote, David Wild, Ying Ding, Qi Yu. edge2vec: Representation Learning Using Edge Semantics for Biomedical Knowledge Discovery. *BMC Bioinformatics*, 2019. (impact factor = 2.511). [[PDF]](https://link.springer.com/article/10.1186/s12859-019-2914-2) [[Code]](https://github.com/RoyZhengGao/edge2vec)</small>
-* <small>Yongzhen Wang, Xiaozhong Liu, **Zheng Gao**. Neural Related Work Summarization with a Joint
-Context-driven Attention Mechanism. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. [[PDF]](https://www.aclweb.org/anthology/papers/D/D18/D18-1204/)</small>
-* <small>**Zheng Gao**, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li,
-Xiaozhong Liu. AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data. *Deep Learning Practice for High-Dimensional Sparse Data Workshop at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (DLP-KDD)*, 2019. [[PDF]](https://arxiv.org/pdf/1907.06582.pdf) [[Video]](https://www.youtube.com/watch?v=G_evEf3DG8k&t=357s) [[Slides]](/files/dlp-kdd.pptx)</small>
-* <small>Zizhe Gao, **Zheng Gao**, Heng Huang, Zhuoren Jiang, Yuliang Yan. An End-to-end Model of Predicting Diverse Ranking On Heterogeneous Feeds. *eCOM Workshop at ACM SIGIR Conference on Research and Development in Information Retrieval (eCom-SIGIR)*, 2018. [[PDF]](http://ceur-ws.org/Vol-2319/paper13.pdf)</small>
-* <small>Zhuoren Jiang, Liangcai Gao, Ke Yuan, **Zheng Gao**, Zhi Tang, Xiaozhong Liu. Mathematics Content Understanding for Cyberlearning via Formula Evolution Map. *ACM International Conference on
-Information and Knowledge Management (CIKM)*, 2018. [[PDF]](https://dl.acm.org/citation.cfm?id=3271694) [[Code]](https://github.com/GraphEmbedding/FEM)</small>
-* <small>Xiaozhong Liu, Xing Yu, **Zheng Gao**, Tian Xia, Johan Bollen. Comparing Community-based Information Adoption and Diffusion across Different Microblogging Sites. *ACM Conference on Hypertext and Social Media*, 2016. [[PDF]](https://dl.acm.org/citation.cfm?id=2914665)</small>
-* <small>**Zheng Gao**, Vincent Malic, Shutian Ma, Patrick Shih. How to Make a Successful Movie: Factor Analysis from both Financial and Critical Perspectives. *International Conference on Information*, 2019. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-15742-5_63)</small>
-* <small>Yongzhen Wang, Yan Lin, **Zheng Gao**, Yan Chen. A Two-stage Iterative Approach to Improve Crowdsourcing-based Relevance Assessment. *Arabian Journal for Science and Engineering*, 2019. [[PDF]](https://link.springer.com/article/10.1007/s13369-018-3456-z)</small>
-* <small>**Zheng Gao**, Xiaozhong Liu. Personalized Community Detection in Scholarly Network. *International Conference on Information*, 2017. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/98863/2pt10_Gao-Personalized.pdf?sequence=1)</small>
-* <small>Tian Xia, Xing Yu, **Zheng Gao**, Yijun Gu, Xiaozhong Liu. Internal/External Information Access
-and Information Diffusion in Social Media. *International Conference on Information*, 2017. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/98867/2pt14_Xia-Thesis.pdf?sequence=1)</small>
-* <small>Nan Li, Naren Suri, **Zheng Gao**, Tian Xia, Xiaozhong Liu, Katy Borner. Enter a Job, Get Course
-Recommendations. *International Conference on Information*, 2017. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/98865/2pt12_Li-Job.pdf?sequence=1)</small>
-* <small>**Zheng Gao**, John Wolohan, Fast NLP-based Pattern Matching in Real Time Tweet Recommendation. *Text REtrieval Conference (TREC)*, 2017. [[PDF]](https://trec.nist.gov/pubs/trec26/papers/SOIC-RT.pdf)</small>
-* <small>Chenwei Zhang, **Zheng Gao**, Xiaozhong Liu. How Others Affect Your Twitter #hashtag Adoption?
-Examination of Community-based and Context-based Information Diffusion in Twitter. *International Conference on Information*, 2015. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/89425/Zhang538.pdf?sequence=1&isAllowed=y)</small>
-* <small>**Zheng Gao**, Rui Bi. University of Pittsburgh at TREC 2014 Microblog Track. *Text REtrieval
-Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618725.pdf)</small>
-* <small>**Zheng Gao**, Patrick C. Shih. Communities of Support: Social Support Discussion in a HIV Online Forum. *International Symposium of Chinese CHI*, 2019. [[PDF]](https://www.researchgate.net/publication/332030838_Communities_of_Support_Social_Support_Exchange_in_a_HIV_Online_Forum) [[Video]](https://www.youtube.com/watch?v=KEOnlWJI4sc&t=896s)</small>
-* <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: What's the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/100249/Tsutsui-Satoshi_20180417_V01.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/apple2373/western_recognize)</small>
+
+<h2 id="publication">研究成果</h2> 
+* J. Fu, Lv Y, W. Y, Robust adaptive time-varying region tracking control of multi-robot systems. Science China. doi：10.1007/s11432-020-3299-2, 2021.
+
+唐美祺，付俊杰，稀疏高斯过程多智能体区域覆盖控制，控制工程，2021.
+
+J. Fu, Y. Lv, G. Wen and X. Yu, Local measurement based formation navigation of nonholonomic robots with globally bounded inputs and collision avoidance, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2021.3089833, 2021.
+
+
+
+G. Wen, X. Yu, J. Fu, H. Wang and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2020.3046949, 2021.
+
+T. Liu, M. Liu, G. Wen, Y. Lv and J. Fu, Consensus of Linear MIMO Multiagent Systems: Appointed-Time Reduced-Order Observer-Based Protocols,  IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3062424, 2021.
+
+J. Fu, G. Wen, X. Yu, Z. Wu, Distributed formation navigation of constrained second-order multiagent systems with collision avoidance and connectivity maintenance. IEEE Transactions on Cybernetics. doi: 10.1109/TCYB.2020.3000264, 2020.
+
+J. Fu, Y. Lv, G. Wen, X. Yu, Huang  T,  Velocity and input constrained coordination of second-order multi-agent systems with relative output information. IEEE Transactions on Network Science and Engineering. vol. 7, no. 3, pp. 1925-1938, 2020.
+
+J. Fu, Y. Wan, T. Huang. Event-triggered finite-time practical consensus of multiagent systems with general directed communication graphs. International Journal of Robust and Nonlinear Control. vol. 30, pp. 7255-7277, 2020.
+
+Y. Lv, J. Fu, G. Wen, T. Huang and X. Yu, Fully Distributed Anti-Windup Consensus Protocols for Linear MASs With Input Saturation: The Case With Directed Topology, IEEE Transactions on Cybernetics. Doi: 10.1109/TCYB.2020.2977554, 2020.
+
+Y. Lv, J. Fu, G. Wen, X. Yu, Distributed adaptive observer-based control for output consensus of heterogeneous MASs with input saturation constrain.  IEEE Transactions on Circuits and Systems I: Regular Papers. vol. 67， no. 3, 995-1007, 2020.
+
+Y. Lv, J. Fu, G. Wen, X. Yu, T. Huang. On Consensus of Multi-agent Systems with Input Saturation: Fully Distributed Adaptive Anti-windup Protocol Design Approach. IEEE Transactions on Control of Network Systems. vol.7 no.3  1127-1139, 2020.
+
+F. Mei, H. Wang, Y. Yao, J. Fu, X. Yuan and W. Yu, "Robust second-order finite-time formation control of heterogeneous multi-agent systems on directed communication graphs," IET Control Theory & Applications, vol. 14, no. 6, pp. 816-823, 2020.
+
+W. Zhang, J. Qin, F. Mei, J. Fu, B. Dai and W. Yu. Short-term power load forecasting using integrated methods based on long short-term memory[J]. Science China(Technological Sciences),  063(004):P.614-624, 2020.
+
+J. Fu, Y. Wan, G. Wen and T. Huang. Distributed Robust Global Containment Control of Second-Order Multi-Agent Systems With Input Saturation. IEEE Transactions on Control of Networked Systems. vol.6, no. 4, pp. 1426-1437, 2019.
+
+J. Fu , G. Wen, W. Yu, T. Huang, X. Yu,  Second-order consensus with both input and velocity constraints. IEEE Transactions on Industrial Electronics.  vol. 66, no. 10, pp. 7946-7955, Oct. 2019.
+
+J. Fu, G. Wen, T. Huang and Z. Duan. Consensus of multi-agent systems with heterogeneous asymmetrical input saturation levels. IEEE Transactions on Circuits and Systems II: Express Briefs. vol. 66, no. 6, pp. 1053-1057, June. 2019. 
+
+J. Fu, Y. Lv, T. Huang. Distributed anti-windup approach for consensus tracking for second-order multi-agent systems with input saturation [J]. Systems and Control Letters, vol. 130, pp. 1-6, 2019.
+
+J. Fu, Q. Wang and J. Wang. Robust finite-time consensus tracking for second-order multi-agent systems with input saturation under general directed communication graphs [J]. International Journal of Control. vol. 92, no. 8, 1785-1795, 2019.
+
+H. Hong, W. Yu, J.Fu, X.Yu X. A novel class of distributed protocols for fixed-time consensus of second-order nonlinear and disturbed multi-agent systems. IEEE Transactions on Network Science and Engineering. vol. 6, no. 4, 760-772, October 2019
+
+H. Hong, W. Yu, J. Fu, X. Yu. Finite-time connectivity-preserving consensus for second-order nonlinear multi-agent systems [J]. IEEE Transactions on Control of Network Systems. vol. 6, no. 1, pp. 236-248, March 2019.
+
+T. Fang, W. Yu, J. Fu, W.Gu, J. Gu. Distributed  optimization of multi-agent systems subject to inequality constraints. IEEE Transactions on Cybernetics . doi:10.1109/TCYB.2019.2927725
+
+Y. Yao, F. Tian, F. Mei, J. Fu, B. Dai, W. Yu. "Dynamical economic dispatch using distributed barrier function-based optimization algorithm." Science China(Technological Sciences) 12, 2019.
+
+J. Fu, G. Wen, W. Yu, T. Huang and J. Cao, Exponential consensus of multi-agent systems with Lipschitz nonlinearities using sampled-data information, IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 12, pp. 4363-4375, 2018.
+
+Q. Wang, J. Fu and J. Wang. Cooperative tracking for high-order nonlinear multi-agent systems via adaptive control [J]. IET control theory and applications, 12(11): 1592-1600, 2018.
+
+J. Fu, G. Wen, W. Yu and Z. Ding. Finite-time consensus for second-order multi-agent systems with input saturation [J]. IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 65, no. 11, pp. 1758-1762, 2017.
+
+J. Fu, J. Wang and Z. Li. Leader-following control of perturbed second-order integrator systems with binary relative information [J]. International Journal of Systems Science, 48(3): 485-493, 2017.
+
+J. Fuang J. Wang. Finite-time consensus for multi-agent systems with globally bounded convergence time under directed communication graphs [J]. International Journal of Control, 90(9): 1807-1817, 2017.
+
+Q. Wang, J. Fu, and J. Wang Fully distributed containment control of high-order multi-agent systems with nonlinear dynamics [J]. Systems & Control Letters, vol. 99, pp. 33-39, 2017.
+
+J. Fu, and J. Wang. Observer-based finite-time coordinated tracking for general linear multi-agent systems. Automatica, vol. 66, pp. 231-237, 2016.
+
+J. Fu and J. Wang. Fixed-time coordinated tracking for second-order multi-agent systems with bounded input uncertainties [J]. Systems and Control Letters, vol. 93, pp. 1-12, 2016.
+
+J.Fu and J. Wang. Robust finite-time containment control for high-order multi-agent systems with matched uncertainties under directed communication graphs [J]. International Journal of Control, 89(6): 1137-1151, 2016.
+
+J. Fuang J. Wang. Robust finite-time containment control of general linear multi-agent systems under directed communication graphs. Journal of the Franklin Institute, 353(12): 2670-2689, 2016.
+
+J. Fu and J. Wang. Adaptive motion coordination of passive systems under quantization effect [J]. International Journal of Robust and Nonlinear Control, 25(11): 1638-1653, 2015.
+
+J. Fuang J. Wang. Output consensus of heterogeneous linear systems with quantized information [J]. Journal of the Franklin Institute, 351(3): 1400-1418, 2014.
+
+J. Fuang J. Wang. Adaptive consensus tracking of high-order nonlinear multi-agent systems with directed communication graphs [J]. International Journal of Control, Automation and Systems, 12(5): 919-929, 2014.
+
+J. Fu and J. Wang. Adaptive coordinated tracking of multi-agent systems with quantized information [J]. Systems and Control Letters, vol. 74, pp. 115-125, 2014.
+
+
+
+会议论文
+
+
+
+1.Fu J,WangJ.Adaptiveconsensustrackingoflinearmulti-agentsystemswithmatching nonlinear uncertainties[C]//Control Conference (CCC), 201332ndChinese. IEEE, 2013:6773-6778.
+
+2.Fu J,WangJ.Leader-followingcontrolofsecond-orderintegratorsystemsusingbinaryinformation[C]//Control and Decision Conference (2014 CCDC), The 26th Chinese. IEEE, 2014: 263-268.
+
+3.Fu J, Wang J. Observer-based finite-time coordinated tracking for high-order integrator systems with matched uncertainties under directed communication graphs[C]//Control & Automation (ICCA), 11th IEEE International Conference on. IEEE, 2014: 880-885.
+
+4.Fu J, Wang J. Finite-time coordinated tracking for high-order uncertain nonlinear multi-agent systems with directed communication graphs[C]// The 33th Chinese Control Conference (2014 CCC). IEEE, 2014:1081-1086.
+
+5.Fu J, Wang J. Terminal sliding mode control based finite-time coordinated tracking for disturbed high-order integrator systems[C]//Control and Decision Conference (CCDC), 2015 27th Chinese. IEEE, 2015: 44-49.
+
+6.Fu J, Wang J, and Li Z. Fully distributed finite-time leader-following control for high-order integrator systems with directed communication graphs[C]// The 34th Chinese Control Conference (2015 CCC). IEEE, 2015: 6912-6917
+
+7.Wang Q, Fu J, and Wang J. Leader-follower consensus for high-order integrator systems with lipschitz nonlinear dynamics [C]// The 34th Chinese Control Conference (2015 CCC). IEEE, 2015: 7096-7101.
+
+8.Fu J, Wang Q, and Wang J. Global saturated finite-time consensus tracking for uncertain second-order multi-agent systems with directed communication graphs [C]// The 35th Chinese Control Conference (2016 CCC). IEEE, 2016: 7684-7689.
+
+9.Wang Q, Fu J, and Wang J. Observer-based adaptive containment control for multi-agent systems with nonlinear dynamics under directed graphs. [C]// The 12th World Congress on Intelligent Control and Automation. IEEE, 2016: 360-365.
+
+10.Wang Q, Fu J, and Wang J. Cooperative tracking for high-order Lipschitz nonlinear multi-agent systems via adaptive control [C]// The 35th Chinese Control Conference (2016 CCC). IEEE, 2016: 7961-7966.
+
+11.Fu J, Wang Q, and Wang J. Robust finite-time consensus tracking for second-order multi-agent systems with reduced communication [C]// The 55th Conference on Decision and Control (CDC). IEEE, 2016: 6086-6091.
+
+12.Fu J, Tan Y and Wang J. Output feedback consensus tracking for second-order nonlinear multi-agent systems with directed communication graphs[C]//Control and Decision Conference (CCDC), 2017 29th Chinese. IEEE, 2017. (Accepted)
+
+13.Fu J. Tan Y, Wang J, Wen G. Sampled-data leader-following rendezvous with input saturation[C]// Control & Automation (ICCA), 14th IEEE International Conference on. IEEE, 2017. (Accepted)
+
+14.Xiaoli Li, Ying Tan, Junjie Fu, Iven Mareels. On V-Shaped Flight Formation of Bird Flocks with Visual Communication Constraints. Control & Automation (ICCA), 14th IEEE International Conference on. IEEE, 2017. (Accepted)
+
+15.Fu J. Wen G, Yu W. Consensus tracking of second-order multi-agent systems with input saturation under sampled-data communication [C]// The 2017 Chinese Automation Congress. IEEE, 2017.
+
+16.Hong, Huifen, Wenwu Yu, Guanghui Wen, and Junjie Fu. Robust consensus tracking for heterogeneous linear multi-agent systems with disturbances. In2017 11th Asian Control Conference (ASCC), pp. 729-734. IEEE, 2017.
+
+17.Fu, Junjie, and Guanghui Wen. Sampled-data consensus of Lipschitz nonlinear multi-agent systems under directed communication graphs.2018 33rd Youth Academic Annual Conference of Chinese Association of Automation (YAC). IEEE, 2018.
+
+18.Fu, Junjie, and Jinzhi Wang. Robust Global Finite-time Attitude Coordination for Multiple Spacecraft.2018 37th Chinese Control Conference (CCC). IEEE, 2018.
+
+19.Fu, Junjie, Tingwen Huang, and Guanghui Wen. Global Leader-following Control of Multiple Non-holonomic Mobile Robots With Input Saturation. In2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp. 862-867. IEEE, 2018.
+
+20.Lv, Yuezu, Zhou, Jialing, Fu, Junjie ,Wen, Guanghui, Huang, Tingwen. Consensus of multiple lur'e systems for directed communication graphs with distributed adaptive relative output feedback protocol. Proceedings of the IEEE International Conference on Industrial Technology, pp. 1430-1435, 2019.
+
+21.Lv, Yueze, Fu Junjie, Zhou Jialing, Wen Guanghui, and Yu Xinghuo. Distributed adaptive anti-windup consensus tracking of networked systems with switching topologies. In2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), pp. 1793-1798. IEEE, 2019.
+
+22.Fang, Xiao, Junjie Fu, and Yuezu Lv. Containment of Linear Multi-Agent Systems with Reduced-Order Protocols Over Signed Graphs. In2019 China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing (AIAIM), pp. 6-10. IEEE, 2019.
+
+23.Zhao, Dan, and Junjie Fu. Observer-Based Adaptive Fault-Tolerant Consensus Tracking of Multi-Agent Systems. In2019 China-Qatar International Workshop on Artificial Intelligence and Applications to Intelligent Manufacturing (AIAIM), pp. 30-35. IEEE, 2019.
+
+24.Fu, Junjie, Yuezu Lv, Jialing Zhou, and Guanghui Wen. Consensus Tracking of Second-order Multi-agent Systems With Input Saturation Under General Directed Communication Graph. In2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), pp. 1787-1792. IEEE, 2019.
+
+25.Fu, Junjie, Guanghui Wen, Yuezu Lv, and Tingwen Huang. Barrier Function Based Consensus of High-Order Nonlinear Multi-agent Systems with State Constraints. InInternational Conference on Neural Information Processing, pp. 492-503. Springer, Cham, 2019.
+
+26.Yuezu Lv, Jialing Zhou, Guanghui Wen, Junjie Fu, Xinghuo Yu, Tingwen Huang, Adaptive Attack-Free Output-Feedback Consensus Protocol for Nonlinear MASs, ICCA, 2020.
+
+27.Zhongjing Luo, Jiahui Yu, Junjie Fu and Zhaohui Liu, Bayesian network based Ant Colony Optimization algorithm for USV path planning in a dynamic environment, ICCSS, 2020.
+
+28.Guanghui Wen, Yuezu Lv, Jialing Zhou and Junjie Fu, Sufficient and Necessary Condition for Resilient Consensus under Time-varying Topologies. ICCSS, 2020.
+
+29.Hu Y, Fu J and Lv Y. "A Class of Optimal Control Problem for Stochastic Discrete-Time Systems with Average Reward Reinforcement Learning." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 829-834. IEEE, 2021.
+
+30. Tang M and Fu J. "Nonparametric Adaptive Trajectory Tracking Control of Uncertain Euler-Lagrange Systems." In 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), pp. 852-857. IEEE, 2021.
+# <small>Satoshi Tsutsui, **Zheng Gao**, Yuzhuo Wang, Guilin Meng, Ying Ding. A Case Study on Viziometrics: What's the Role of Western Blots in Alzheimers Disease Literature. *International Conference on Information*, 2018. [[PDF]](https://www.ideals.illinois.edu/bitstream/handle/2142/100249/Tsutsui-Satoshi_20180417_V01.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/apple2373/western_recognize)</small>
 
 
 <h2 id="service">Service</h2>  
