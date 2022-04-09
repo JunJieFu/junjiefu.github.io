@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Gao"
+title                    : "付俊杰"
 title_separator          : "-"
-name                     : &name "Zheng Gao"
-description              : &description "Applied scientist at Amazon Alexa AI"
-url                      : https://royzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Junjie Fu"
+description              : &description "Southeast University"
+url                      : https://junjiefu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "royzhenggao.github.io"
+repository               : "junjiefu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,26 +78,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Gao (高正)"
+  name             : "付俊杰 (Junjie Fu)"
   avatar           : "profile.png"
-  bio              : "Applied scientist at Amazon Alexa AI"
-  location         : "Seattle, WA, USA"
+  bio              : "东南大学数学学院"
+  location         : "江苏，南京"
   employer         :  
-  googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
-  email            : "zhenggao@amazon.com"
+  googlescholar    : "https://scholar.google.com/citations?user=F6wkr6sAAAAJ&hl=en"
+  email            : "fujunjie@seu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  researchgate     :  "https://www.researchgate.net/profile/Junjie-Fu-5"
   foursquare       :
-  github           : "RoyZhengGao"
+  github           : "junjiefu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "zheng-gao-351b738a/"
+  linkedin         : 
   orcid            :  
   pinterest        :
   soundcloud       :
