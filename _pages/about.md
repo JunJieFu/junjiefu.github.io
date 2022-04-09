@@ -38,18 +38,15 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small>01/2022:</small> <small style="color:red">Our paper "Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation" is accepted by ICASSP 2022 ~</small>    
-<h2 id="biography"> Biography</h2>  
 
-<small> Hi, I am Zheng Gao, an Applied Scientist at Amazon Alexa AI. I received my Ph.D. degree in Information Science and minor in Computer Science from Indiana University Bloomington, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
+<h2 id="biography"> 个人简介</h2>  
 
-<h2 id="education"> Education</h2>  
-* <small>**Ph.D.** in Information Science<br>
-    Minor in Computer Science <br>
-    Indiana University Bloomington, United States (2015 - 2020)</small> 
-* <small>**M.S.** in Information Science  
-    University of Pittsburgh, United States (2013 - 2015)</small>  
-* <small>**B.M.** in Information Management and System  
-    Shanghai International Studies University, China (2009 - 2013)</small> 
+<small> 付俊杰，东南大学数学学院副研究员，博士生导师。2017年毕业于北京大学工学院力学系统与控制系，获博士学位。2011年毕业于北京大学工学院理论与应用力学系，获学士学位。研究方向包括非光滑分析、滑模控制、多智能体分布式协同控制等。在量化通信协同控制，有限时间协同控制方面发表相关论文十余篇。主持国家自然科学基金青年基金一项，江苏省自然科学基金青年基金一项。2018年10月入选江苏省双创博士人才计划，2018年11月入选东南大学至善青年学者人才项目。</small>
+
+<h2 id="education"> 教育经历</h2>  
+* <small>2011.9-2017.7 北京大学工学院动力学系统与控制系;</small> 
+* <small>2016.7-2017.2 墨尔本大学电子电器工程系;</small> 
+* <small>2007.9-2011.7 北京大学工学院理论与应用力学专业.</small> 
 
 <h2 id="experience">Experience</h2> 
 * <small>Applied Scientist II, Amazon Alexa AI (06/2020 - now)</small> 
