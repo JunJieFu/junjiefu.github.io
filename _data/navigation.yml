@@ -10,10 +10,12 @@ main:
     url: /#education
   - title: "工作经历"
     url: /#experience  
-  - title: "研究成果"
+  - title: "论文发表"
     url: /#publication 
   - title: "科研项目"
     url: /#project
+  - title: "在读学生"
+    url: /#student
   - title: "荣誉及社会兼职"
     url: /#service   
   # - title: "Blog"
